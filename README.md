@@ -2,7 +2,7 @@
 
 <p align="center">
   🌸 A <b>Front-End Developer</b> passionate about designing <i>beautiful, responsive, and user-friendly</i> websites.<br>
-  💻 Skilled in <b>HTML, CSS, JavaScript, Bootstrap, Tailwind, and React</b>.<br>
+  💻 Skilled in <b>HTML, CSS, JavaScript, Bootstrap, Tailwind, React and Next.JS </b>.<br>
   🌷 Always curious, always learning, always creating.
 </p>
 
