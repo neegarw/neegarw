@@ -17,9 +17,11 @@
   <img src="https://img.shields.io/badge/Bootstrap-FF69B4?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-BA55D3?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/React-FFC0CB?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-FF69B4?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F08080?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-D8BFD8?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
 
 ---
 
