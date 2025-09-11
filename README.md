@@ -8,7 +8,7 @@
 
 ---
 
-<h2>💖 Tech Stack</h2>
+<h2>Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white" />
@@ -61,7 +61,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/neegarw"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/neegarw"><img src="https://img.shields.io/badge/GitHub-FFC0CB?style=for-the-badge&logo=github&logoColor=black" /></a>
+<a href="mailto:nigarmurvtzad@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 ---
