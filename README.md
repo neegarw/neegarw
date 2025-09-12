@@ -28,12 +28,10 @@
 <h2>🌸 Featured Projects</h2>
 
 <ul>
-  <li>✨ <b>Polo-Demo</b> – modern responsive design practice.</li>
-  <li>✨ <b>Shapely-Demo</b> – creative layouts with animations.</li>
-  <li>✨ <b>First-Fitness</b> – dashboard-style fitness app interface.</li>
-  <li>✨ <b>Medical-Demo</b> – clean, accessible design for healthcare.</li>
-  <li>✨ <b>Dar-X-Demo</b> – modular, styled components.</li>
-  <li>✨ <b>Switch-Demo</b> – smooth transitions and playful UI.</li>
+  <li>✨ <b>BAYFİLM</b> -A modern film platform showcasing creative storytelling, sleek design, and smooth user experience.</li>
+  <li>✨ <b>PapaJohns</b> -A Next.js-powered web app aiming to deliver a clean, responsive design and seamless user experience.</li>
+  <li>✨ <b>A101</b> -A React-based web app aiming to recreate or enhance the A101 shopping experience with modern UI/UX</li>
+  <li>✨ <b>Neptun</b> -A project focused on delivering an intuitive front-end, seamless navigation, and React best practices</li>
 </ul>
 
 ---
