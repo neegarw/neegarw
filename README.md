@@ -39,7 +39,7 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neegarw&show_icons=true&theme=rose_pine" alt="Nigar's GitHub stats" />
+  <img src="#" alt="Nigar's GitHub stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neegarw&layout=compact&theme=rose_pine" alt="Top Languages" />
